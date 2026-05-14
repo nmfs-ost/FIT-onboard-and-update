@@ -13,7 +13,7 @@ jobs:
     steps:
 
       - name: checkout toolbox_web_templating repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
         with:
           repository: noaa-fisheries-integrated-toolbox/toolbox_web_templating
           ref: dev
