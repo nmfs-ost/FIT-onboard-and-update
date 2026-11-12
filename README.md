@@ -1,5 +1,7 @@
 # onboard-and-update
-Request to onboard or update a tool in the NOAA FIT by submitting an [issue](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues)
+Request update a tool in the NOAA FIT by submitting an [issue](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues)
+
+For onboarding, please see the [FIT-review-and-onboard repository](https://github.com/nmfs-ost/FIT-review-and-onboard)
 
 # Admin instructions
 
